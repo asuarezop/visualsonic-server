@@ -9,9 +9,11 @@ app.use(cors({ origin: "*" }));
 app.use(express.json());
 
 //ROUTES
-app.use("/tracks", tracksRoute);
+// app.use("/login", loginRoute);
 
-app.use("/visualizers", visualizersRoute);
+// app.use("/signup", signupRoute);
+
+app.use("/wavplayer", wavplayerRoute);
 
 app.get("/", (req, res) => {
   console.log("Received a get request");
