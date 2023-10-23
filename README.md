@@ -26,7 +26,7 @@ Back-end: Node, Express, CORS
 https://p5js.org/reference/
 
 ## Screenshot
-![image](https://github.com/asuarezop/visualsonic-client/assets/43550294/54fd2ddb-c5fe-47a1-988f-525698e146d0)
+![Audio visualizer](https://github.com/asuarezop/visualsonic-server/assets/43550294/102e71da-c0cf-4ce5-8add-f5c7947e62c8)
 
 ## Features (Custom Profile Features Coming Soon)
 
